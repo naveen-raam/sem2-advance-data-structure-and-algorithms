@@ -15,4 +15,4 @@ This is the graph through which it has been traversing
 
 ```|/`\````|
 
-```4---6--11
+```4---6--11 
